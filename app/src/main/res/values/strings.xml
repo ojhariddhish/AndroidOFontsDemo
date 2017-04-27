@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FontsDemo</string>
+    <string name="adjust_auto_text">Adjust Auto Text</string>
+    <string name="indie_flower">Indie Flower</string>
+    <string name="pacifico_regular">Pacifico Regular</string>
+    <string name="quicksand_regular">Quicksand Regular</string>
+    <string name="quicksand_bold">Quicksand Bold</string>
+    <string name="asar_regular">Asar Regular</string>
+</resources>
